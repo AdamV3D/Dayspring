@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight_Mini\Daylight_mini.kicad_sch</source>
-    <date>22/07/2022 11:25:00</date>
-    <tool>Eeschema (6.0.4)</tool>
+    <source>C:\Users\adam\Documents\GitHub\Dayspring\Dayspring_Mini\Dayspring_Mini.kicad_sch</source>
+    <date>06/02/2023 14:57:54</date>
+    <tool>Eeschema (6.0.7)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>Daylight_mini.kicad_sch</source>
+        <source>Dayspring_Mini.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -33,7 +33,7 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5b4df7cd-3263-4b77-92ac-f299a3fa3156</tstamps>
     </comp>
@@ -46,9 +46,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>37e34f3c-dc44-4cec-a342-5b746a2dad87</tstamps>
+      <tstamps>e3d11dd0-0406-4573-964a-8997c435549a</tstamps>
     </comp>
     <comp ref="D3">
       <value>LED_ALT</value>
@@ -59,9 +59,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>29f3b13e-9806-46e5-a45b-c53319e5cc93</tstamps>
+      <tstamps>37e34f3c-dc44-4cec-a342-5b746a2dad87</tstamps>
     </comp>
     <comp ref="D4">
       <value>LED_ALT</value>
@@ -72,9 +72,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>8b9bc056-fcb9-45a1-955b-54dc12c456b3</tstamps>
+      <tstamps>06d84841-b2cb-4f7a-9b7e-23d6cc512d11</tstamps>
     </comp>
     <comp ref="D5">
       <value>LED_ALT</value>
@@ -85,9 +85,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>93c52389-64a9-4d5a-bded-97b92d3b032b</tstamps>
+      <tstamps>29f3b13e-9806-46e5-a45b-c53319e5cc93</tstamps>
     </comp>
     <comp ref="D6">
       <value>LED_ALT</value>
@@ -98,9 +98,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6075ff26-0bd1-4639-a3b7-30cdc88d4942</tstamps>
+      <tstamps>35d0be1e-11a3-4f13-baad-8e3f7657e47c</tstamps>
     </comp>
     <comp ref="D7">
       <value>LED_ALT</value>
@@ -111,9 +111,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ef966ccb-457b-4190-9601-dc1bd6ff12aa</tstamps>
+      <tstamps>8b9bc056-fcb9-45a1-955b-54dc12c456b3</tstamps>
     </comp>
     <comp ref="D8">
       <value>LED_ALT</value>
@@ -124,9 +124,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e3d11dd0-0406-4573-964a-8997c435549a</tstamps>
+      <tstamps>fba4a331-6aff-4bbc-91ed-8e24bbbfae6e</tstamps>
     </comp>
     <comp ref="D9">
       <value>LED_ALT</value>
@@ -137,9 +137,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>06d84841-b2cb-4f7a-9b7e-23d6cc512d11</tstamps>
+      <tstamps>93c52389-64a9-4d5a-bded-97b92d3b032b</tstamps>
     </comp>
     <comp ref="D10">
       <value>LED_ALT</value>
@@ -150,9 +150,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>35d0be1e-11a3-4f13-baad-8e3f7657e47c</tstamps>
+      <tstamps>3a52a30a-2fec-46e7-97cd-fd60c0123483</tstamps>
     </comp>
     <comp ref="D11">
       <value>LED_ALT</value>
@@ -163,9 +163,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fba4a331-6aff-4bbc-91ed-8e24bbbfae6e</tstamps>
+      <tstamps>6075ff26-0bd1-4639-a3b7-30cdc88d4942</tstamps>
     </comp>
     <comp ref="D12">
       <value>LED_ALT</value>
@@ -176,9 +176,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3a52a30a-2fec-46e7-97cd-fd60c0123483</tstamps>
+      <tstamps>7fbe4aa7-4ce4-4e66-931e-a3d15d8c7e2b</tstamps>
     </comp>
     <comp ref="D13">
       <value>LED_ALT</value>
@@ -189,9 +189,9 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7fbe4aa7-4ce4-4e66-931e-a3d15d8c7e2b</tstamps>
+      <tstamps>ef966ccb-457b-4190-9601-dc1bd6ff12aa</tstamps>
     </comp>
     <comp ref="D14">
       <value>LED_ALT</value>
@@ -202,9 +202,61 @@
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
       <property name="LCSC" value="C2843876"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>18c14527-45e2-43a0-86b5-b0b900e19dcd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C157931</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C157931"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccaefeec-b6db-46b5-a63e-064dd79cadf4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C2932679</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C2932679"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea5580b-ef50-474b-a33f-d42df6b0ce8d</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C157931</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C157931"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0254d6dc-cd85-4486-81eb-8cfed05470db</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C2932679</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C2932679"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb9cdab6-8c3f-4b7a-88f3-acb7be7ef670</tstamps>
     </comp>
     <comp ref="R1">
       <value>20R 0.25W</value>
@@ -215,7 +267,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>94fb3a87-e6be-4c86-bae9-6e7f1293288c</tstamps>
     </comp>
@@ -228,9 +280,9 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b912c418-e9b1-4e60-af6e-51ac80818d74</tstamps>
+      <tstamps>38f008b9-2f3e-49f9-b56c-9e07a00c82b3</tstamps>
     </comp>
     <comp ref="R3">
       <value>20R 0.25W</value>
@@ -241,9 +293,9 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>38f008b9-2f3e-49f9-b56c-9e07a00c82b3</tstamps>
+      <tstamps>b912c418-e9b1-4e60-af6e-51ac80818d74</tstamps>
     </comp>
     <comp ref="R4">
       <value>20R 0.25W</value>
@@ -254,7 +306,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight_mini.kicad_sch"/>
+      <property name="Sheetfile" value="Dayspring_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ded9e3dd-fe71-4335-9499-83e82ff8b51e</tstamps>
     </comp>
@@ -340,19 +392,27 @@
   <nets>
     <net code="1" name="+24V">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="2" name="GND">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
     <net code="3" name="Net-(D1-Pad1)">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
     </net>
     <net code="4" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
     </net>
     <net code="5" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
@@ -362,24 +422,24 @@
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(D4-Pad2)">
-      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R1" pin="1" pintype="passive"/>
-    </net>
-    <net code="8" name="Net-(D5-Pad1)">
+    <net code="7" name="Net-(D5-Pad1)">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
-    </net>
-    <net code="9" name="Net-(D5-Pad2)">
-      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
-    </net>
-    <net code="10" name="Net-(D6-Pad1)">
-      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="11" name="Net-(D8-Pad1)">
-      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="8" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
     </net>
     <net code="12" name="Net-(D9-Pad1)">
@@ -388,27 +448,27 @@
     </net>
     <net code="13" name="Net-(D10-Pad1)">
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
     </net>
     <net code="14" name="Net-(D10-Pad2)">
       <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
     </net>
     <net code="15" name="Net-(D11-Pad1)">
       <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R4" pin="2" pintype="passive"/>
-    </net>
-    <net code="16" name="Net-(D12-Pad1)">
-      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(D12-Pad2)">
+    <net code="16" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D12-Pad2)">
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
-    </net>
-    <net code="18" name="Net-(D13-Pad1)">
-      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
     </net>
   </nets>
 </export>

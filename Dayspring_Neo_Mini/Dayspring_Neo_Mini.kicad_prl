@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "ff9ffff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Daylight_Neo_Mini.kicad_prl",
+    "filename": "Dayspring_Neo_Mini.kicad_prl",
     "version": 3
   },
   "project": {

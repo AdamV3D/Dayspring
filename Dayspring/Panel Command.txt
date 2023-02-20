@@ -1,21 +1,11 @@
 kikit panelize ^
---layout "grid; rows: 12; cols: 1; space: 2mm" ^
+--layout "grid; rows: 10; cols: 1; space: 3mm" ^
 --tabs annotation ^
 --source "tolerance: 15mm" ^
---cuts "mousebites; drill: 0.5mm; spacing: 1mm; offset: 0.2mm; prolong: 1mm" ^
---framing "frame; width: 8mm; space: 2mm; cuts: both" ^
---fiducials "4fid; hoffset: 3.85mm; voffset: 3.85mm; opening: 2mm" ^
---text "simple; text: Vector 3D Daybreak Panel; anchor: mt; voffset: 4mm; hjustify: center; vjustify: center;" ^
---post "millradius: 1mm" ^
-C:\Users\adam\Documents\GitHub\V3D-Voron-mods\Daylight_on_a_stick\Daylight\Daylight.kicad_pcb ^
-C:\Users\adam\Documents\GitHub\V3D-Voron-mods\Daylight_on_a_stick\Daylight\Panel\Daylight_P.kicad_pcb
-
-
-
-
-
-
-
-
---tabs "fixed; hwidth: 5mm; vwidth: 8mm; vcount: 10" ^
---copperfill solid ^
+--cuts "vcuts; layer: Edge.Cuts" ^
+--framing "railstb; width: 8mm; space: 3mm; cuts: both; fillet: 2mm" ^
+--fiducials "4fid; hoffset: 4.5mm; voffset: 4.5mm; opening: 2mm" ^
+--text "simple; text: Vector 3D Dayspring Panel; anchor: mt; voffset: 4mm; hjustify: center; vjustify: center;" ^
+--post "millradius: 1.5mm " ^
+C:\Users\adam\Documents\GitHub\Dayspring\Dayspring\Dayspring.kicad_pcb ^
+C:\Users\adam\Documents\GitHub\Dayspring\Dayspring\Panel\Dayspring_P.kicad_pcb

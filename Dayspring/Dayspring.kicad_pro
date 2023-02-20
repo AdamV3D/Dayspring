@@ -121,7 +121,8 @@
       "track_widths": [
         0.0,
         0.5,
-        1.0
+        1.0,
+        1.5
       ],
       "via_dimensions": [
         {
@@ -356,7 +357,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Daylight.kicad_pro",
+    "filename": "Dayspring.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -429,7 +430,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Daylight.step",
+      "step": "Dayspring.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
